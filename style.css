@@ -4,9 +4,12 @@
     background-size: cover;
 }
 .kiddo{
-    background-image: url(https://i.imgflip.com/1hfmx7.jpg);
+    /* background-image: url(https://i.imgflip.com/1hfmx7.jpg); */
     min-height: 25vh;
     background-size: cover;
+}
+.kiddo img{
+    height:200px;
 }
 .dark{
     background-image: url(http://www.itaniumsolutions.org/pics/max/55/559858_circuit-wallpaper.jpg);
@@ -19,7 +22,7 @@
     background-size: cover;
 }
 .tools{
-    background-color: rgb(197, 180, 180);
+    background-color: rgb(231, 231, 231);
     min-height: 30vh;
     background-size: cover;
 }
