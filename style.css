@@ -1,0 +1,25 @@
+.wood-image{
+    background-image: url(https://cdn.wallpapersafari.com/69/51/vW4u5a.jpg);
+    min-height: 46vh;
+    background-size: cover;
+}
+.kiddo{
+    background-image: url(https://i.imgflip.com/1hfmx7.jpg);
+    min-height: 25vh;
+    background-size: cover;
+}
+.dark{
+    background-image: url(http://www.itaniumsolutions.org/pics/max/55/559858_circuit-wallpaper.jpg);
+    min-height: 46vh;
+    background-size: cover;
+}
+.about-me{
+    background-color: rgba(245, 120, 3, 0.932);
+    min-height: 30vh;
+    background-size: cover;
+}
+.tools{
+    background-color: rgb(197, 180, 180);
+    min-height: 30vh;
+    background-size: cover;
+}
