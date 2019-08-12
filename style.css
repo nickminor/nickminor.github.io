@@ -12,9 +12,10 @@
     height:200px;
 }
 .dark{
-    background-image: url(http://www.itaniumsolutions.org/pics/max/55/559858_circuit-wallpaper.jpg);
+    background-image: url(https://images.unsplash.com/photo-1547499417-61a435d27cb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
     min-height: 46vh;
     background-size: cover;
+
 }
 .about-me{
     background-color: rgba(245, 120, 3, 0.932);
