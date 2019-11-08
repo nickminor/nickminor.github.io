@@ -92,6 +92,7 @@ padding: 50px 80px;
 #card-image{
     height: 245px;
     width: 245px;
+    opacity: .7;
 }
 .card figure{
     height: 100%;
