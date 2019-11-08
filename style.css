@@ -1,29 +1,68 @@
-.wood-image{
-    background-image: url(https://cdn.wallpapersafari.com/69/51/vW4u5a.jpg);
-    min-height: 46vh;
-    background-size: cover;
+body, html{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
 }
-.kiddo{
-    /* background-image: url(https://i.imgflip.com/1hfmx7.jpg); */
-    min-height: 25vh;
+
+.pimg1, .pimg2, .pimg3 {
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
-.kiddo img{
-    height:200px;
+
+.pimg1{
+    background-image:url(./img/coding.jpeg);
+    min-height: 100%;
 }
-.dark{
-    background-image: url(https://images.unsplash.com/photo-1547499417-61a435d27cb3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
-    min-height: 46vh;
-    background-size: cover;
+.pimg2{
+    background-image:url(./img/keyboard.jpeg);
+    min-height: 500px;
+}
+.pimg3{
+    background-image:url(./img/laptopp.jpg);
+    min-height: 500px;
+}
+
+.section{
+text-align: center;
+padding: 50px 80px;
+}
+.section-light{
+    background-color: #f4f4f4;
+    color: #666;
+}
+.section-dark{
+    background-color: #282e34;
+    color: #ddd;
+}
+
+.ptext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size:27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.boarder{
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
 
 }
-.about-me{
-    background-color: rgba(245, 120, 3, 0.932);
-    min-height: 30vh;
-    background-size: cover;
-}
-.tools{
-    background-color: rgb(231, 231, 231);
-    min-height: 30vh;
-    background-size: cover;
+.boarder-trans{
+    background-color: transparent;
+    color: white;
 }
