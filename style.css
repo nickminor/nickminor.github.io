@@ -18,22 +18,24 @@ body, html{
 }
 
 .pimg1{
-    background-image:url(./img/coding.jpeg);
-    min-height: 500px;
+    background-image:url(./img/backgrounds/coding.jpeg);
+    min-height: 800px;
 }
 .pimg2{
-    background-image:url(./img/keyboard.jpeg);
+    background-image:url(./img/backgrounds/keyboard.jpeg);
     min-height: 500px;
 }
 .pimg3{
-    background-image:url(./img/laptopp.jpg);
+    background-image:url(./img/backgrounds/laptopp.jpg);
     min-height: 500px;
 }
 .pimg4{
-    background-image:url(./img/contact.jpg);
+    background-image:url(./img/backgrounds/contact.jpg);
     min-height: 500px;
 }
-
+#languages{
+    max-height: 1in;
+}
 .section{
 text-align: center;
 padding: 50px 80px;
