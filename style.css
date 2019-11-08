@@ -19,7 +19,7 @@ body, html{
 
 .pimg1{
     background-image:url(./img/coding.jpeg);
-    min-height: 95vh;
+    min-height: 500px;
 }
 .pimg2{
     background-image:url(./img/keyboard.jpeg);
